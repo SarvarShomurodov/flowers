@@ -14,17 +14,17 @@ body{
 h1{
     font-family: 'Sacramento', cursive;
     color: #FE7696;
-    font-size: 40px;
+    font-size: 35px;
 }
 .sor{
     font-family: 'Sacramento', cursive;
     color: #FE7696;
-    font-size:30px; 
+    font-size:28px; 
 }
 .letter{
     width: 600px;
     height: 280px;
-    margin-left: 22%;
+    margin-left: 26%;
 }
 
 .rose{
